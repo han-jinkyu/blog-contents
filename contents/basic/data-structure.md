@@ -188,7 +188,7 @@ int findIndex(int[] sortedArray, int value){
 
 ---
 
-![복잡도 그래프](./images/time_complexity.png)
+![복잡도 그래프](/images/time_complexity.png)
 [복잡도 그래프](https://en.wikipedia.org/wiki/Time_complexity)
 
 위 그래프는 데이터 수(n)에 따라 얼마나 복잡도(N)가 높아지는지 보여주고 있습니다. 보면서 아셨겠지만 [**빅-오 표기법은 계수와 낮은 차수의 항에 대해서는 생략**](https://ko.wikipedia.org/wiki/%EC%8B%9C%EA%B0%84_%EB%B3%B5%EC%9E%A1%EB%8F%84)합니다. 즉 항이 제일 높은 것만 살려두시면 됩니다.
