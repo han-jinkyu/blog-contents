@@ -40,6 +40,9 @@ Tistory 블로그에 올릴 내용을 미리 정리하는 레포지터리
 
 - [Docker 초간단 사용 커맨드 정리](/contents/practice/docker/simple-commands.md)
 
+### 개인
+
+- [커밋할 수 없는 날의 '하루 1커밋' _ 01](/contents/practice/personal/commit-on-day-when-cannot-01.md)
 ----
 
 ## 개인
