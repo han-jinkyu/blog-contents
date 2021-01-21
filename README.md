@@ -43,6 +43,8 @@ Tistory 블로그에 올릴 내용을 미리 정리하는 레포지터리
 ### 개인
 
 - [커밋할 수 없는 날의 '하루 1커밋' _ 01](/contents/practice/personal/commit-on-day-when-cannot-01.md)
+- [커밋할 수 없는 날의 '하루 1커밋' _ 02](/contents/practice/personal/commit-on-day-when-cannot-02.md)
+
 ----
 
 ## 개인
